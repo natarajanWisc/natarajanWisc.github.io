@@ -1,8 +1,60 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: navy;
-    margin-left: 20px;
-  }
+*{
+    font-family:  sans-serif, Arial, Helvetica;
+    color: #fff;
+    background-color: #004; /*navy*/
+    text-align: center;
+}
+
+a:link{text-decoration:none;}
+a:hover{text-decoration: none;color: #ccc; }
+
+header{
+    width:100% ;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.navi ul{
+    background-color: #008;
+    padding: 30px;
+    margin: 10px;
+}
+
+.navi li{
+    display: inline;
+    background-color: #008;
+    padding: 30px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+.who{
+    width:fit-content;
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 10px;
+}
+
+.music img{
+    position:relative;
+    left:400px;
+    bottom: 360px;
+
+    border: 2px #008;
+    border-radius: 20px;
+}
+
+.music p{
+    width: 300px;
+    position:relative;
+    left:950px;
+    bottom: 360px;
+}
+
+p{
+    padding: 10px;
+}
+
+
