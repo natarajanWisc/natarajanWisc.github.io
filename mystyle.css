@@ -81,3 +81,51 @@ p{
     border-radius: 20px;
 }
 
+.Piano{
+    width:fit-content;
+
+    position:relative;
+    left:205px;
+    bottom: -40px;
+
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 20px;
+}
+
+.food{
+    width:fit-content;
+
+    position:relative;
+    left:700px;
+    bottom: 236px;
+
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 20px;
+}
+
+.gym{
+    width:fit-content;
+
+    position:relative;
+    left:350px;
+    bottom: 200px;
+
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 20px;
+}
+
+.cs{
+    width:fit-content;
+
+    position:relative;
+    left:800px;
+    bottom: 515px;
+
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 20px;
+}
+
