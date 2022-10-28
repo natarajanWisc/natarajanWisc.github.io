@@ -42,7 +42,7 @@ body{
     left:400px;
     bottom: 360px;
 
-    border: 2px #008;
+    border: 2px white;
     border-radius: 20px;
 }
 
@@ -57,4 +57,27 @@ p{
     padding: 10px;
 }
 
+.school {
+    width:fit-content;
+
+    position:relative;
+    left:150px;
+    bottom: -30px;
+
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 20px;
+}
+
+.college{
+    width:fit-content;
+
+    position:relative;
+    left:700px;
+    bottom: 245px;
+
+    padding: 20px;
+    border: 2px solid #008;
+    border-radius: 20px;
+}
 
