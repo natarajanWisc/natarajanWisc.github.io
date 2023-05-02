@@ -53,6 +53,11 @@ h1, h2 {
 	text-align: center;
 }
 
+p {
+	max-width: 1000px;
+	margin: 0 auto; /* Add margin to center the paragraph element */
+  }
+  
 footer {
 	background-color: #333;
 	color: white;
